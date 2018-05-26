@@ -4,13 +4,13 @@
 document.getElementsByClassName("class1")[0].style.backgroundColor = "teal";
 
 var newH1 = document.createElement("h1");
-newH1.innerText = "Test content, added to h1.";
+newH1.innerText = "Mongolian countryside";
 	
 
 document.getElementById("id1").appendChild(newH1);
 
 var anotherNewH1 = document.createElement("h1");
-var newTextNode = document.createTextNode("More test content for another h1.");
+var newTextNode = document.createTextNode("Click the button to cycle through the images.");
 
 anotherNewH1.appendChild(newTextNode);
 document.getElementById("id2").appendChild(anotherNewH1);

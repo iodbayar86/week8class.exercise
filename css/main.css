@@ -9,3 +9,17 @@
 .class2{
 	background-color: blue;
 }
+
+
+img{
+	width: 100%;
+}
+
+#id1, #id2{
+	text-align: center;
+	color: blue;
+}
+
+button{
+	margin-top: 15px;
+}
